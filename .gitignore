@@ -1,0 +1,26 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.log
+
+# ===== 虚拟环境 / 打包 =====
+.venv/
+venv/
+build/
+dist/
+*.spec.bak
+
+# ===== 本机运行配置（含供应商 API Key 等敏感信息，严禁入库）=====
+gateway_config.json
+*.config.json
+
+# ===== 临时 / 调试文件 =====
+_venvtest.txt
+
+# ===== 系统 / 编辑器 =====
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
