@@ -3,6 +3,7 @@
 一个本地多平台 LLM 路由网关。将多个大模型供应商（OpenAI 兼容接口）聚合到本地单一入口，对外暴露统一 API，内置重试退避、失败后流转、时段路由、并发控制等能力。
 
 > 本软件由 Zhiyu 许愿式开发，由 WorkBuddy 驱动 Claude Fable 5.1、DeepSeek v4 Flash、DeepSeek v4 Pro、GLM 5.3、GLM 5.3 Flash、GPT 5.6 Sol、GPT Image 2、Hy4 Preview、Kimi k3 等模型构成。
+> 本项目纯粹个人好奇心，想探究“许愿式”开发法能做到什么程度。个人0编程经验，全靠 WorkBuddy 驱动各家模型开发。
 
 ---
 
